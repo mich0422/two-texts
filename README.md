@@ -19,11 +19,11 @@ Save each text into a separate file under the "data" folder -- "one.txt" or "two
 
 ### Text 1
 
-<!-- replace this with your citation -->
+<!-- Wolf, Justin. "The Art Story: Minimalism Movement." The Art Story: Minimalism Movement. Accessed February 8, 2015. http://www.theartstory.org/movement-minimalism.htm.-->
 
 ### Text 2
 
-<!-- replace this with your citation -->
+<!-- Perl, Jed. "Flower Power." The New York Times. September 25, 2004. Accessed February 8, 2015. http://www.nytimes.com/2004/09/26/books/review/26PERLL.html?_r=0. -->
 
 
 Next, write instructions in program.txt. They should be step-by-step instructions that can be applied to just about any text to change it into something different. A simple example of three steps would be:
